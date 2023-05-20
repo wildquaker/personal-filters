@@ -1,3 +1,8 @@
+! Title: wildquaker Personal Filter List
+! Expires: 1 day
+! Description: My personal filters for uBlock Origin
+! Homepage: https://github.com/wildquaker/personal-filters
+
 ! Facebook filters
 www.facebook.com##[aria-posinset] div:not(:only-child)>div:only-child>div:only-child>div:first-child[class=""]>div:not([data-0]):has-text(/^Suggested/):upward([aria-posinset])
 www.facebook.com##[aria-posinset] [aria-label="See all"][href="/friends/"]:upward([aria-posinset])
