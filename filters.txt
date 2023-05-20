@@ -91,3 +91,6 @@ youtube.com##.ytp-ce-element.ytp-ce-playlist
 youtube.com##.ytp-cards-teaser
 youtube.com##.ytp-button.ytp-cards-button
 youtube.com##.ytp-button.branding-img-container
+
+! Twitch filters
+twitch.tv##+js(twitch-videoad)
