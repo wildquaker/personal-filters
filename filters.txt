@@ -42,8 +42,8 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 ! Twitter filters
 twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article):style(border: white 5px dotted !important)
 twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
-twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"])):style(border:red dotted 4px !important)
-twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"])):style(border:red dotted 4px !important)
+twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"]))
+twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
 twitter.com##article [role=group] [href$="/analytics"]:upward(div:not(:only-child))
 twitter.com##[aria-label="Timeline: Conversation"] [href*="/status/"] ~ span
 twitter.com##article [d$="183-3.51-8.183-8.01z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/reply$/)):style(border: lightgreen 5px dotted !important)
@@ -61,6 +61,8 @@ twitter.com##[aria-label="who to follow" i]:upward(1)
 twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
 twitter.com##html:style(overflow: auto !important;)
 twitter.com###layers>div:last-of-type:has-text(Switch to the app)
+twitter.com##[aria-label="Timeline: Explore"]
+twitter.com##[role="presentation"]:has-text(/^For you$/)
 
 ! YouTuber filters
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
