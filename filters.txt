@@ -74,8 +74,6 @@ youtube.com##+js(set, ytInitialData.desktopTopbar.desktopTopbarRenderer.intersti
 youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
 youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
 youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
-youtube.com##ytd-rich-item-renderer #channel-name a:is([href="/@channelURL"],[href="/channel/channelPath"], [href="/@anotherChannelURL"]):upward(ytd-rich-item-renderer)
-youtube.com##ytd-rich-item-renderer #channel-name a:has-text(/BBC|CNN|FOX|NBC/):upward(ytd-rich-item-renderer)
 youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button
 ~youtube-nocookie.com,~youtube.com##iframe ~ #topvbar > #rvid
 youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer),ytd-secondary-search-container-renderer
