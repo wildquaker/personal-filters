@@ -58,6 +58,7 @@ twitter.com###layers>div:last-of-type:has-text(Switch to the app)
 twitter.com##[aria-label="Timeline: Explore"]
 twitter.com##[role="presentation"]:has-text(/^For you$/)
 twitter.com##div [aria-label="Get Verified"]
+twitter.com##nav [aria-label="Verified"]
 
 ! YouTuber filters
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
