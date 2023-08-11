@@ -42,23 +42,23 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 ! Twitter filters
 twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article)
 twitter.com##article [d$="2.66 6 1H5z"]:upward(article)
-twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"]))
+twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"])):style(border:red dotted 4px !important)
 twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
 twitter.com##[aria-label="Timeline: Conversation"] [href*="/status/"] ~ span
 twitter.com##article div>svg>g>[d^="M17.863 13.44c1.477"]:upward(article)
 twitter.com##article>div:first-child>div:first-child>div:first-child>div:first-child [d$="4.17-.514 6.67z"]:upward(article)
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
+twitter.com##[aria-label="Timeline: Explore"]
+twitter.com##[role="presentation"]:has-text(/^For you$/)
+twitter.com##[aria-label="Get Verified"] 
+twitter.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com##[aria-label$="trending now" i]
 twitter.com##[aria-label="who to follow" i]:upward(1)
 twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
 twitter.com##html:style(overflow: auto !important;)
 twitter.com###layers>div:last-of-type:has-text(Switch to the app)
-twitter.com##[aria-label="Timeline: Explore"]
-twitter.com##[role="presentation"]:has-text(/^For you$/)
-twitter.com##div [aria-label="Get Verified"]
-twitter.com##nav [aria-label="Verified"]
 
 ! YouTuber filters
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
@@ -76,15 +76,16 @@ youtube.com##ytd-rich-item-renderer #video-title-link[title*="Mix"][href$="start
 youtube.com##ytd-compact-radio-renderer
 youtube.com##ytd-radio-renderer
 youtube.com##ytd-compact-playlist-renderer .ytd-channel-name:has-text(/^YouTube/):upward(ytd-compact-playlist-renderer)
-youtube.com##ytd-rich-item-renderer #channel-name a:is([href="/@channelURL"],[href="/channel/channelPath"], [href="/@anotherChannelURL"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-rich-item-renderer #channel-name a:is([href="/@channelURL"],[href="/channel/channelPath"], [href="/@anotherChannelURL"]):upward(ytd-rich-item-renderer)	
 youtube.com##ytd-rich-item-renderer #channel-name a:has-text(/BBC|CNN|FOX|NBC/):upward(ytd-rich-item-renderer)
 youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button
 ~youtube-nocookie.com,~youtube.com##iframe ~ #topvbar > #rvid
 youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer),ytd-secondary-search-container-renderer
 youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer,ytd-channel-renderer),ytd-secondary-search-container-renderer
-youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
-youtube.com##ytd-rich-grid-row>#contents, ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
+youtube.com##ytd-browse[page-subtype="home"] ytd-rich-grid-row:style(--ytd-rich-grid-items-per-row: 1 !important;)
+youtube.com##ytd-browse[page-subtype="home"] ytd-rich-grid-row>#contents, ytd-browse[page-subtype="home"] ytd-rich-grid-row ytd-rich-grid-media:style(max-width: unset !important;)
 /annotations_module.js$script,important,domain=youtube.com
+/endscreen.js$script,important,domain=youtube.com
 youtube.com##.ytp-ce-element.ytp-ce-video
 youtube.com##.ytp-ce-element.ytp-ce-channel
 youtube.com##.ytp-ce-element.ytp-ce-website
