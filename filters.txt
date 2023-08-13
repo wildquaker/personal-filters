@@ -59,6 +59,7 @@ twitter.com##[aria-label="who to follow" i]:upward(1)
 twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
 twitter.com##html:style(overflow: auto !important;)
 twitter.com###layers>div:last-of-type:has-text(Switch to the app)
+twitter.com##a[href="/i/verified-choose"]
 
 ! YouTuber filters
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
