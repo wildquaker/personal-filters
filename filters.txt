@@ -60,6 +60,7 @@ twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][
 twitter.com##html:style(overflow: auto !important;)
 twitter.com###layers>div:last-of-type:has-text(Switch to the app)
 twitter.com##a[href="/i/verified-choose"]
+twitter.com##aside[aria-label="Subscribe to Premium"]
 
 ! YouTuber filters
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
@@ -93,6 +94,13 @@ youtube.com##.ytp-ce-element.ytp-ce-playlist
 youtube.com##.ytp-cards-teaser
 youtube.com##.ytp-button.ytp-cards-button
 youtube.com##.ytp-button.branding-img-container
+||youtube.com/api.stats
+||youtube.com/youtubei/v1/log_event^$xhr
+youtube.com/api/stats/watchtime
+||s.youtube.com/api.stats
+||s.youtube.com/youtubei/v1/log_event^$xhr
+s.youtube.com/api/stats/watchtime
+s.youtube.com
 
 ! Twitch filters
 twitch.tv##+js(twitch-videoad)
