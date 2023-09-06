@@ -44,6 +44,7 @@ twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recomme
 twitter.com##article [d$="2.66 6 1H5z"]:upward(article)
 twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"]))
 twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
+twitter.com##[aria-label$="’s posts"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
 twitter.com##[aria-label="Timeline: Conversation"] [href*="/status/"] ~ span
 twitter.com##article div>svg>g>[d^="M17.863 13.44c1.477"]:upward(article)
 twitter.com##article>div:first-child>div:first-child>div:first-child>div:first-child [d$="4.17-.514 6.67z"]:upward(article)
@@ -78,8 +79,6 @@ youtube.com##ytd-rich-item-renderer #video-title-link[title*="Mix"][href$="start
 youtube.com##ytd-compact-radio-renderer
 youtube.com##ytd-radio-renderer
 youtube.com##ytd-compact-playlist-renderer .ytd-channel-name:has-text(/^YouTube/):upward(ytd-compact-playlist-renderer)
-youtube.com##ytd-rich-item-renderer #channel-name a:is([href="/@channelURL"],[href="/channel/channelPath"], [href="/@anotherChannelURL"]):upward(ytd-rich-item-renderer)	
-youtube.com##ytd-rich-item-renderer #channel-name a:has-text(/BBC|CNN|FOX|NBC/):upward(ytd-rich-item-renderer)
 youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button
 ~youtube-nocookie.com,~youtube.com##iframe ~ #topvbar > #rvid
 youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer),ytd-secondary-search-container-renderer
@@ -94,6 +93,8 @@ youtube.com##.ytp-ce-element.ytp-ce-playlist
 youtube.com##.ytp-cards-teaser
 youtube.com##.ytp-button.ytp-cards-button
 youtube.com##.ytp-button.branding-img-container
+youtube.com##.ytp-quality-menu .ytp-premium-label:upward(.ytp-menuitem)
+youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
 ||youtube.com/api.stats
 ||youtube.com/youtubei/v1/log_event^$xhr
 youtube.com/api/stats/watchtime
