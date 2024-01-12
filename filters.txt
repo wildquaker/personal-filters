@@ -57,7 +57,6 @@ twitter.com##article>div:first-child>div:first-child>div:first-child>div:first-c
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
 twitter.com##[aria-label="Timeline: Explore"]
-twitter.com##[role="presentation"]:has-text(/^For you$/)
 twitter.com##[aria-label="Get Verified"]
 twitter.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
