@@ -94,7 +94,7 @@ youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-butt
 youtube.com##ytd-search ytd-item-section-renderer>#contents>:not(ytd-video-renderer,ytd-channel-renderer),ytd-secondary-search-container-renderer
 www.youtube.com##ytd-browse[page-subtype="home"] :is(ytd-rich-grid-row, #contents.ytd-rich-grid-row):style(display: contents !important)
 /annotations_module.js$script,important,domain=youtube.com
-/endscreen.js$script,important,domain=youtube.com
+! /endscreen.js$script,important,domain=youtube.com
 youtube.com##.ytp-ce-element.ytp-ce-video
 youtube.com##.ytp-ce-element.ytp-ce-channel
 youtube.com##.ytp-ce-element.ytp-ce-website
