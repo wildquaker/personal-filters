@@ -4,112 +4,111 @@
 ! Homepage: https://github.com/wildquaker/personal-filters
 
 ! Facebook
-web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) div:not(:only-child)>div:only-child>div:only-child>div:first-child[class=""]>div:not([data-0]):has-text(/^Suggested/):upward([aria-posinset],[aria-describedby]:not([aria-posinset]))
-web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) :is(h3,h4) [role=button]:has-text(/Follow|Join/):upward([aria-posinset],[aria-describedby]:not([aria-posinset]))
-web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has-text(Suggested for you)
-web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [href="/friends/"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset]))
-web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [href="/groups/discover/"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset]))
-web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [href="/reel/?s=ifu_see_more"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset]))
-web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [aria-label="Suggested pages"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset]))
 facebook.com##[aria-label*="Marketplace"] object > a[href^="/ads/"] > span:not(:empty):upward(11)
 facebook.com##[aria-label*="Marketplace"] object:has(> a[href^="/ads/"] > span:has-text(/^Sponsored$/)):upward(a):upward(3)
 facebook.com##div[role=article] span:not(>*):has-text(/^Related discussions$/):upward(span)
 facebook.com##div[role=button] > span:not(>*):has-text(/related/i):upward(4)
+m.facebook.com##[data-mcomponent="MScreen"]>div[class="m"]>div:has-text(Suggested for you)
+web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) :is(h3,h4) [role=button]:has-text(/Follow|Join/):upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [aria-label="Suggested pages"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [href="/friends/"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [href="/groups/discover/"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+web.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) div:not(:only-child)>div:only-child>div:only-child>div:first-child[class=""]>div:not([data-0]):has-text(/^Suggested/):upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 
+www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) :is(h3,h4) [role=button]:has-text(/Follow|Join/):upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [aria-label="Suggested pages"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [href="/friends/"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [href="/groups/discover/"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) div:not(:only-child)>div:only-child>div:only-child>div:first-child[class=""]>div:not([data-0]):has-text(/^Suggested/):upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])):has-text(Suggested for you):style(height: 0 !important; overflow: hidden !important;)
 
 ! Google
-www.google.*##^script:has-text(consentCookiePayload)
-www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
-||consent.google.com^
 google.*##[id^="eob_"]
+www.google.*##+js(acis, document.cookie, YES+)
+www.google.*##^script:has-text(consentCookiePayload)
 ||accounts.google.com/gsi/*$xhr,script,3p
+||consent.google.com^
 
 ! Reddit
-www.reddit.com##.XPromoPopupRpl
-www.reddit.com##xpromo-new-app-selector
-www.reddit.com##.bottom-bar, .XPromoBottomBar
-www.reddit.com##.useApp,.TopNav__promoButton
-www.reddit.com##body:style(pointer-events:auto!important;)
-reddit.com##.XPromoPopup
-reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-reddit.com##.XPromoInFeed
 amp.reddit.com##.AppSelectorModal__body
 amp.reddit.com##.upsell_banner
-www.reddit.com##xpromo-app-selector
-www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
-www.reddit.com##+js(aeld, touchmove)
-www.reddit.com##.XPromoPopupRplNew
-www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
-www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
+reddit.com##.XPromoInFeed
+reddit.com##.XPromoPopup
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+www.reddit.com##+js(aeld, touchmove)
+www.reddit.com##.bottom-bar, .XPromoBottomBar
+www.reddit.com##.useApp,.TopNav__promoButton
+www.reddit.com##.XPromoPopupRpl
+www.reddit.com##.XPromoPopupRplNew
+www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
+www.reddit.com##body:style(pointer-events:auto!important;)
+www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
+www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
+www.reddit.com##xpromo-app-selector
+www.reddit.com##xpromo-new-app-selector
 ||strapi.reddit.com^$xhr,domain=reddit.com
 
 ! Twitter
-twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article)
-twitter.com##article [d$="2.66 6 1H5z"]:upward(article)
-twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"]))
-twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
-twitter.com##[aria-label$="’s posts"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
-twitter.com##[aria-label="Timeline: Conversation"] [href*="/status/"] ~ span
-twitter.com##article>div:first-child>div:first-child>div:first-child>div:first-child [d$="4.17-.514 6.67z"]:upward(article)
+twitter.com###layers>div:last-of-type:has-text(Switch to the app)
+twitter.com##[aria-label$="trending now" i]
+twitter.com##[aria-label$="’s posts"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"])):style(border:red dotted 4px !important)
+twitter.com##[aria-label="Get Verified"]    
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
-twitter.com##[aria-label="Timeline: Explore"]
-twitter.com##[role="presentation"]:has-text(/^For you$/)
-twitter.com##[aria-label="Get Verified"]
+twitter.com##[aria-label="Timeline: Conversation"] [href*="/status/"] ~ span
+twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"])):style(border:red dotted 4px !important)
+twitter.com##[aria-label="who to follow" i]:upward(1)
 twitter.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
-twitter.com##[aria-label$="trending now" i]
-twitter.com##[aria-label="who to follow" i]:upward(1)
+twitter.com##[src$="/verified_stroke_1.png"]:upward(div:not(:empty)+div:last-of-type):style(border: dotted 2px grey !important;)
+twitter.com##a[href="/i/grok"]
+twitter.com##a[href="/i/verified-choose"]
+twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article):style(border: white 5px dotted !important)
+twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
+twitter.com##article [role=group] [href$="/analytics"]:upward(div:not(:only-child))
+twitter.com##article div>svg>g>[d^="M17.863 13.44c1.477"]:upward(article):style(border: cyan dotted 5px !important)
+twitter.com##article>div:first-child>div:first-child>div:first-child>div:first-child [d$="4.17-.514 6.67z"]:upward(article):style(border:blue 5px dotted !important)
+twitter.com##aside[aria-label="Subscribe to Premium"]
 twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
 twitter.com##html:style(overflow: auto !important;)
-twitter.com###layers>div:last-of-type:has-text(Switch to the app)
-twitter.com##a[href="/i/verified-choose"]
-twitter.com##a[href="/i/grok"]
-twitter.com##aside[aria-label="Subscribe to Premium"]
 
 ! YouTube
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+/annotations_module.js$script,xhr,important,domain=youtube.com
+s.youtube.com
+s.youtube.com/api/stats/watchtime
+www.youtube.com##ytd-browse[page-subtype="home"] :is(ytd-rich-grid-row, #contents.ytd-rich-grid-row):style(display: contents !important)
+youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button
+youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
+youtube.com##+js(json-prune, [].response.overlay.consentBumpV2Renderer topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer overlay.consentBumpV2Renderer response.overlay.consentBumpV2Renderer)
 youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
 youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
-youtube.com##+js(set, ytInitialData.onResponseReceivedEndpoints, undefined)
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
-youtube.com##+js(json-prune, [].response.overlay.consentBumpV2Renderer topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer overlay.consentBumpV2Renderer response.overlay.consentBumpV2Renderer)
 youtube.com##+js(set, ytInitialData.desktopTopbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
-youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
+youtube.com##+js(set, ytInitialData.onResponseReceivedEndpoints, undefined)
 youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
-youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
-youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.upsellDialogRenderer)
-youtube.com##ytd-rich-item-renderer:has(#video-title-link[title*="Mix"][href$="start_radio=1"])
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
+youtube.com##.ytp-button.branding-img-container
+youtube.com##.ytp-button.ytp-cards-button
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-ce-element.ytp-ce-channel
+youtube.com##.ytp-ce-element.ytp-ce-playlist
+youtube.com##.ytp-ce-element.ytp-ce-video
+youtube.com##.ytp-ce-element.ytp-ce-website
+youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
+youtube.com##.ytp-quality-menu .ytp-premium-label:upward(.ytp-menuitem)
+youtube.com##.ytp-suggested-action
 youtube.com##ytd-compact-radio-renderer
 youtube.com##ytd-radio-renderer
-www.youtube.com##ytd-browse[page-subtype="home"] #video-title-link:not(:is([aria-label*=",0"],[aria-label*=",1"],[aria-label*=",2"],[aria-label*=",3"],[aria-label*=",4"],[aria-label*=",5"],[aria-label*=",6"],[aria-label*=",7"],[aria-label*=",8"],[aria-label*=",9"])):upward(ytd-rich-item-renderer)
-www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-item-renderer:has(#video-title:not(:is([aria-label*=",0"],[aria-label*=",1"],[aria-label*=",2"],[aria-label*=",3"],[aria-label*=",4"],[aria-label*=",5"],[aria-label*=",6"],[aria-label*=",7"],[aria-label*=",8"],[aria-label*=",9"])))
-www.youtube.com##ytd-compact-video-renderer #video-title:not(:is([aria-label*=",0"],[aria-label*=",1"],[aria-label*=",2"],[aria-label*=",3"],[aria-label*=",4"],[aria-label*=",5"],[aria-label*=",6"],[aria-label*=",7"],[aria-label*=",8"],[aria-label*=",9"])):upward(ytd-compact-video-renderer)
-www.youtube.com##ytd-compact-video-renderer:has(#video-title:not(:is([aria-label*=",0"],[aria-label*=",1"],[aria-label*=",2"],[aria-label*=",3"],[aria-label*=",4"],[aria-label*=",5"],[aria-label*=",6"],[aria-label*=",7"],[aria-label*=",8"],[aria-label*=",9"])))
-youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button
-~youtube-nocookie.com,~youtube.com##iframe ~ #topvbar > #rvid
-youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-renderer),ytd-video-renderer:has([aria-label="Shorts"])),ytd-secondary-search-container-renderer
-youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-renderer,ytd-channel-renderer),ytd-video-renderer:has([aria-label="Shorts"])),ytd-secondary-search-container-renderer
-youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-renderer,ytd-channel-renderer, ytd-playlist-renderer),ytd-video-renderer:has([aria-label="Shorts"])),ytd-secondary-search-container-renderer
-www.youtube.com##ytd-browse[page-subtype="home"] :is(ytd-rich-grid-row, #contents.ytd-rich-grid-row):style(display: contents !important)
-/annotations_module.js$script,important,domain=youtube.com
-youtube.com##.ytp-ce-element.ytp-ce-video
-youtube.com##.ytp-ce-element.ytp-ce-channel
-youtube.com##.ytp-ce-element.ytp-ce-website
-youtube.com##.ytp-ce-element.ytp-ce-playlist
-youtube.com##.ytp-cards-teaser
-youtube.com##.ytp-button.ytp-cards-button
-youtube.com##.ytp-button.branding-img-container
-youtube.com##.ytp-quality-menu .ytp-premium-label:upward(.ytp-menuitem)
-youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
-||youtube.com/api.stats
-||youtube.com/youtubei/v1/log_event^$xhr
+youtube.com##ytd-rich-item-renderer:has(#video-title-link[title*="Mix"][href$="start_radio=1"])
+youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-renderer,ytd-channel-renderer, ytd-playlist-renderer,yt-showing-results-for-renderer),ytd-video-renderer:has([aria-label="Shorts"])),ytd-secondary-search-container-renderer
 youtube.com/api/stats/watchtime
 ||s.youtube.com/api.stats
 ||s.youtube.com/youtubei/v1/log_event^$xhr
-s.youtube.com/api/stats/watchtime
-s.youtube.com
+||youtube.com/api.stats
+||youtube.com/youtubei/v1/log_event^$xhr
+~youtube-nocookie.com,~youtube.com##iframe ~ #topvbar > #rvid
 
 ! Twitch
 twitch.tv##+js(twitch-videoad)
