@@ -1,0 +1,5310 @@
+{
+    "group": {
+        "group": "Microsoft Block",
+        "action": {
+            "do": 0,
+            "status": 1
+        }
+    },
+    "rules": [
+        {
+            "PK": "1oavsblobprodcus350.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "37bvsblobprodcus311.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0001.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0001.dc-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0002.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0003.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0003.dc-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0004.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0005.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0006.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0007.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0008.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0009.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0010.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0011.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-0012.a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a-ring.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a.ads1.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a.ads2.msads.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a.ads2.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a.config.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a.rad.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ac3.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "acfeedbackws.icloud.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activation-v2.sls.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activation.sls.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activity.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adnexus.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adnxs.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ads.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ads1.msads.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ads1.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "aidps.atdmt.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "aka-cdn-ns.adtech.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "alpha.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "am3pap002.storage.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "am3pap004.storage.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "answers.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "api-adservices.apple.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "api.bing.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "api.cdp.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "api.cortana.ai",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "api.edgeoffer.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "api.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "api.onedrive.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "appex-rf.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "apps.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "arc.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "arc.msn.com.nsatc.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ars.smartscreen.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "asimov-win.settings.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "assets.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "assuritystorage.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "auth.gfx.ms",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "autologon.microsoftazuread-sso.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "automatedirstrprdeus.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "az361816.vo.msecnd.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "az512334.vo.msecnd.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "az725175.vo.msecnd.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "azpglspamprwduateus2.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "azsc-euw.config.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "azwancan.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "b-ring.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "b.ads1.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "b.ads2.msads.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "b.config.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "b.rad.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bingads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bingforbusiness.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bl3301-a.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bl3301-c.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bl3301-g.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "blob.weather.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "blobcollector.events.data.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "blobs.officehome.msocdn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn2-ris-ap-prod-atm.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn2-ris-prod-atm.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn2b-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn2b-cor002.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn2b-cor003.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn2b-cor004.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn2wns1.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3p-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020010558.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020010560.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020010618.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020010629.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020010631.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020010635.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020010636.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020010650.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020011727.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020012850.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020020322.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020020749.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020022328.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020022335.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn3sch020022361.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101120814.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101120818.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101120911.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101120913.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101121019.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101121109.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101121118.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101121223.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101121407.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101121618.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101121704.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101121709.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101121714.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101121908.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101122117.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101122310.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101122312.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101122421.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101123108.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101123110.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch101123202.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bn4sch102110124.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "browser.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "browser.events.data.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "browser.pipe.aria.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bs.serving-sys.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "by3301-a.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "by3301-c.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "by3301-e.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c-0001.dc-msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c.atdmt.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c.bing.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c1.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ca.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cache.datamart.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "candycrushsoda.king.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cbecloud.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cdn.atdmt.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cdn.content.prod.cms.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cdn.onenote.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1.stn.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds10.stn.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1203.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1204.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1209.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1219.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1228.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1244.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1257.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1265.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1269.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1273.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1285.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1287.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1289.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1293.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1307.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1310.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1325.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds1327.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds177.dus.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20005.stn.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20404.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20411.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20415.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20416.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20417.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20424.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20425.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20431.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20435.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20440.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20443.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20445.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20450.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20452.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20457.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20461.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20469.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20475.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20482.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20485.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds20495.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21205.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21207.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21225.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21229.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21233.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21238.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21244.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21249.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21256.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21257.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21258.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21261.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21267.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21278.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21281.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21293.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21309.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21313.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds21321.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds27.ory.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds299.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds30027.stn.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds308.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds310.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds38.ory.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds405.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds406.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds407.fra.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds416.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds421.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds422.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds425.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds426.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds447.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds458.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds459.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds46.ory.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds461.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds468.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds469.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds471.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds483.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds484.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds489.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds493.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds494.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds54.ory.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds812.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds815.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds818.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds832.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds836.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds840.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds843.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds857.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds868.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds869.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ceuswatcab01.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ceuswatcab02.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ch1-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ch1-cor002.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ch3301-c.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ch3301-e.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ch3301-g.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ch3302-c.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ch3302-e.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "checkappexec.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "choice.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "choice.microsoft.com.nsatc.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "client-office365-tas.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "client-s.gateway.messenger.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "clientconfig.passport.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "clients.config.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "co2.sls.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "compatexchange1.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "config.edge.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "config.teams.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "continuum.dds.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "corp.sts.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "corpext.msitadfs.glbdns2.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "crl.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cs.dds.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cs1.wpc.v0cdn.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cy2.settings.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cy2.vortex.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "da.xboxservices.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "db3aqu.atdmt.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "db3pap004.storage.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "db5-eap.settings-win.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "db5.settings-win.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "db5.settings.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "db5.vortex.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "decsitefinitycdn.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dev.virtualearth.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "developerportalprod.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "device.auth.xboxlive.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "df.csa.teams.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "df.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "diagnostics.support.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dlassets-ssl.xboxlive.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dmd.metaservices.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dmd.metaservices.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dns.msftncsi.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eaus2watcab01.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eaus2watcab02.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ec.atdmt.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ecn.dev.virtualearth.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ecs.office.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "edge.activity.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "edge.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "edgetipscdn.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eu-v10.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eu-v20.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eu.vortex-win.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eu.vortex.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "europe.cp.wd.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "europe.smartscreen-prod.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "events.gfe.nvidia.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "evoke-windowsservices-tas.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "exo.nel.measure.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "feedback.microsoft-hohm.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "feedback.search.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "feedback.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "feedbackws.fe.apple-dns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "feedbackws.icloud.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "finance.services.appex.bing.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "flex.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "foodanddrink.tile.appex.bing.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fp.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fr-fr.appex-rf.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fs.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "g.bing.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "g.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "g.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "geo.settings-win.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "geo.settings.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "geo.vortex.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "global.sam.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "go.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "graph.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "h1.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "h2.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hel01r3.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2.settings.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020721.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020723.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020726.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020729.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020732.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020824.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020843.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020851.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020854.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020855.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020924.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020936.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020940.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020956.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020958.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130020961.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021017.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021029.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021035.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021137.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021142.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021153.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021217.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021246.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021249.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021260.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021264.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021322.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021323.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021329.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021334.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021360.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021432.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021433.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021435.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021437.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021440.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021450.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021518.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021523.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021526.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021527.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021544.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021554.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021618.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021634.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021638.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021646.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021652.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021654.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021657.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021723.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021726.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021727.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021730.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021731.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021754.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021829.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021830.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021833.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021840.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021842.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021851.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021852.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021927.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021928.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021929.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130021958.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130022035.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130022041.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130022049.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2sch130022135.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2wns1.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hk2wns1b.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hubstordev3sstor1.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-am3p-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-am3p-cor002.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-am3p-cor003.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-am3p-cor004.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-am3p-cor005.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-bl6p-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-bl6p-cor002.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-bn3p-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-bn3p-cor090.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-by3p-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-by3p-cor002.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-ch1-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-ch1-cor002.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-db3p-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-db3p-cor002.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-db3p-cor003.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-db3p-cor004.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-db3p-cor005.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-sn2-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-sn2-cor002.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-sn3p-cor001.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i-sn3p-cor002.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i1.services.social.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iadsdk.apple.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ic3.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iecvlist.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ieonlinews.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ieonlinews.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "img-prod-cms-rt-microsoft-com.akamaized.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "img-s-msn-com.akamaized.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "img.stb.s-msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "inference.location.live.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "insiderservice.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "insideruser.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "insideruser.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ipv4.login.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "isgemail.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iteactive-pra.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "k-ring.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kiwi.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kmwatson.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kmwatsonc.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lb1.www.ms.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "licensing.mp.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "licensingphone.md.mp.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "live.rads.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "location-inference-westus.cloudapp.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "login.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "login.microsoftonline.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "login.msa.akadns6.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "login.msa.msidentity.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "login.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "logincdn.msauth.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "m.adnxs.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "m.hotmail.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "manage.devcenter.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "maps.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "mediaredirect.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "metadata.templates.cdn.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "mobile.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "mobile.pipe.aria.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "modern.watson.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "mrodevicemgr.officeapps.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "msagfx.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "mscrl.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "msedge.api.cdp.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "msftncsi.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "msgapi.teams.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "msntest.serving-sys.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "msportal.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "mucp.api.account.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nav.smartscreen.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ne-we.cp.wd.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ne.cp.wd.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "neu.notifications.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "next-services.apps.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nexus.officeapps.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nexusrules.officeapps.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nleditor.osi.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "notes-analytics-events.apple.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "notes-analytics-events.news.apple-dns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ntp.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nw-umwatson.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "oca.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "oca.telemetry.microsoft.us",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ocos-office365-s2s.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "odc.officeapps.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "officecdn.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "officecdn.microsoft.com.edgesuite.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "officeclient.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "officehomeblobs.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "oneclient.sfx.ms",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onecollector.cloudapp.aria.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedrive.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclubprodbn20051.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclubproddm20041.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20001.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20002.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20003.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20004.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20005.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20006.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20007.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20008.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20009.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20010.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20011.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20012.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20013.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20014.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20016.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20017.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20018.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20019.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20020.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20021.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20022.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20023.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20024.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20025.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20026.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20027.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20028.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20029.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20030.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20036.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20037.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20038.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20039.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20040.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20041.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20042.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20043.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20044.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20045.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20046.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20047.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20048.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20049.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucprodbn20050.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20001.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20002.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20003.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20004.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20005.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20006.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20007.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20008.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20009.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20011.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20012.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20013.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20014.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20015.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20016.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20017.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20018.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20019.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20020.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20021.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20022.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20023.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20024.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20025.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20026.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20027.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20028.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20029.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20030.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20036.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20037.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20038.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20039.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20040.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20042.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20043.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20044.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20045.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20046.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20047.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20048.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20049.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "onedriveclucproddm20050.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "oneocsp.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "optanon.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "otf.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "outlook-1.cdn.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "outlook-ca-emeawest2.office365.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "outlook-emeawest2.office365.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "outlook.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "outlook.office.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "outlook.office365.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "outlookmobile-office365-tas.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "packages.dmd.metaservices.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "par02p.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pipe.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pre.footprintpredict.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "presence.teams.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "preview.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pstrgqp01.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pti.store.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "purchase.mp.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "query.prod.cms.rt.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "r20swj13mr.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rad.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rad.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rcr.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "reactiveassistanceinstance.cognitiveservices.azure.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "redir.metaservices.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "register.cdpcs.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "reports.wes.df.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ris.api.iris.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "roaming-eu.officeapps.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "roaming.officeapps.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rom30r3a.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "romeccs.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s.gateway.messenger.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s0.2mdn.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s2s.config.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "schemas.microsoft.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "search.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "secure.adnxs.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "secure.flashtalking.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "self.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "server6.pipe.aria.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "server7.pipe.aria.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "service.weather.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "services.wes.df.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "settings-sandbox.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "settings-ssl.xboxlive.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "settings-win-ppe.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "settings-win.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "settings.data.glbdns2.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "settings.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "settingsfd-geo.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sfdataservice.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sg2p.wns.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "share.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "skyapi.live.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "smartscreen-prod.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sn3301-c.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sn3301-e.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sn3301-g.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "spynet2.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "spynetalt.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "spyneteurope.microsoft.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sqm.df.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sqm.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sqm.telemetry.microsoft.com.nsatc.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ssw.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "staging.to-do.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "staging.to-do.officeppe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "static.2mdn.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "statics.teams.cdn.live.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "statics.teams.cdn.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "stor3.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "storage.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "store-images.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "store-images.s-microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "storecatalogrevocation.storequality.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "storeedgefd.dsx.mp.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "storesdk.dsx.mp.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "studytree2.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "substrate.office.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "support.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "survey.watson.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "syndication.twitter.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "t-ring.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "t.urs.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "t0.ssl.ak.dynamic.tiles.virtualearth.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "t0.ssl.ak.tiles.virtualearth.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "teams.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "teams.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tele.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "telecommand.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "telemetry.appex.bing.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "telemetry.remoteapp.windowsazure.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "telemetry.urs.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "teredo.ipv6.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "test.activity.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tfl.nel.measure.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "thestreamstaging.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tile-service.weather.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "time.windows.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tk2.plt.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "to-do.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "troubleshooting.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "uci.cdn.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "uhf.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ui.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "uks.b.prd.ags.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "umwatson.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "umwatsonc.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "umwatsonc.telemetry.microsoft.us",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "urs.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "urs.smartscreen.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "us-v10.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "us-v20.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "us.vortex-win.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v10-win.vortex.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v10.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v10.vortex-win.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v10c.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v20.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v20.vortex-win.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "validation-v2.sls.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "validation.sls.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "version.hybrid.api.here.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "videomd.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "view.atdmt.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vortex-sandbox.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vortex-win-sandbox.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vortex-win.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vortex.data.glbdns2.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vortex.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "w.apprep.smartscreen.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wallet.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "watson.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "watson.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "watson.ppe.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "watson.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wdcp.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wdcpalt.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "weather-analytics-events.apple.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "weather-analytics-events.news.apple-dns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "web.vortex.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wes.df.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "weus2watcab01.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "weus2watcab02.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "win10-trt.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "win10.ipv6.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "win1710.ipv6.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "win8.ipv6.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "windows.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "windows.policies.live.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wpcdn.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wscont.apps.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wscont.apps.microsoft.com.edgesuite.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wscont1.apps.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wscont2.apps.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.msftconnecttest.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.msftncsi.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.telecommandsvc.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.windowssearch.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.xboxab.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "x.urs.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xblgdvrassets3010.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xml.login.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xp.apple.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ztd.dds.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        }
+    ]
+}
