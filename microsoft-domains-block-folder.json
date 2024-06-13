@@ -1,6 +1,6 @@
 {
     "group": {
-        "group": "Microsoft Block",
+        "group": "Microsoft Domains Block",
         "action": {
             "do": 0,
             "status": 1
