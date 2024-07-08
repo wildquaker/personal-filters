@@ -986,6 +986,12 @@ youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upse
 www.youtube.com##+js(nano-stb, resolve(1), 5000, 0.001)
 !#endif
 
+youtube.com##ytd-rich-item-renderer:has(#video-title-link[title*="Mix"][href$="start_radio=1"])
+youtube.com##ytd-compact-radio-renderer
+youtube.com##ytd-radio-renderer
+youtube.com##ytd-compact-playlist-renderer:has([title^="YouTube"])
+youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-renderer,ytd-channel-renderer, ytd-playlist-renderer,yt-showing-results-for-renderer,[icon-name="promo-full-height:EMPTY_SEARCH"]),ytd-video-renderer:has([aria-label="Shorts"])),ytd-secondary-search-container-renderer
+
 ! TWITTER
 ! [July 2024] from https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_twitter
 
@@ -1078,6 +1084,11 @@ mobile.twitter.com,x.com##.rn-1kihuf0.rn-1awozwy
 !! Removes the "Are you new on Twitter?" banner in the upper right of user timelines (Screen area has to be ≥~1400px wide)
 mobile.twitter.com,x.com##div[data-testid=sidebarColumn] section[aria-label][role=region]
 !#endif
+
+twitter.com,x.com##aside[aria-label="Subscribe to Premium"]
+twitter.com,x.com##a[href="/i/grok"]
+twitter.com,x.com##a[href="/i/premium_sign_up"]
+twitter.com,x.com##a[href="/i/verified-orgs-signup"]
 
 ! BING
 ! Hide rebate
