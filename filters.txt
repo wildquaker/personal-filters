@@ -60,8 +60,6 @@ twitter.com,x.com##[data-testid="sidebarColumn"] [data-testid="placementTracking
 twitter.com,x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com,x.com##[aria-label$="trending now" i]
 twitter.com,x.com##[aria-label="who to follow" i]:upward(1)
-twitter.com,x.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
-twitter.com,x.com##html:style(overflow: auto !important;)
 twitter.com,x.com###layers>div:last-of-type:has-text(Switch to the app)
 twitter.com,x.com##aside[aria-label="Subscribe to Premium"]
 twitter.com,x.com##a[href="/i/grok"]
