@@ -79,6 +79,7 @@ youtube.com##ytd-compact-radio-renderer
 youtube.com##ytd-radio-renderer
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:has(ytd-rich-item-renderer[is-post])
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-item-renderer[is-post]
+youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-renderer,ytd-channel-renderer, ytd-playlist-renderer,yt-showing-results-for-renderer,[icon-name="promo-full-height:EMPTY_SEARCH"]),ytd-video-renderer:has([aria-label="Shorts"])),ytd-secondary-search-container-renderer
 www.youtube.com##ytd-browse[page-subtype="home"] :is(ytd-rich-grid-row, #contents.ytd-rich-grid-row):style(display: contents !important)
 /annotations_module.js$script,xhr,important,domain=youtube.com
 youtube.com##.ytp-ce-element.ytp-ce-video
