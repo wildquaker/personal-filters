@@ -1,0 +1,18 @@
+[Adblock Plus]
+! Title: wildquaker's DNS/Browser Blocklist
+! Description: My personal DNS/browser blocklist
+! Homepage: https://github.com/wildquaker/personal-filters
+! Expires: 1 day
+! Syntax: AdBlock
+||ad.doubleclick.net^
+||ads-api.twitter.com^
+||ads.pinterest.com^
+||ads.youtube.com^
+||advice-ads.s3.amazonaws.com^
+||business.samsungusa.com^
+||doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+||pagead2.googlesyndication.com^
+||static.doubleclick.net^
+||widgets.pinterest.com^
