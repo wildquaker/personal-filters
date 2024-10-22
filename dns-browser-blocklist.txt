@@ -4,15 +4,15 @@
 ! Homepage: https://github.com/wildquaker/personal-filters
 ! Expires: 1 day
 ! Syntax: AdBlock
-||ad.doubleclick.net^
-||ads-api.twitter.com^
-||ads.pinterest.com^
-||ads.youtube.com^
-||advice-ads.s3.amazonaws.com^
-||business.samsungusa.com^
-||doubleclick.net^
-||m.doubleclick.net^
-||mediavisor.doubleclick.net^
-||pagead2.googlesyndication.com^
-||static.doubleclick.net^
-||widgets.pinterest.com^
+||ad.doubleclick.net^$all
+||ads-api.twitter.com^$all
+||ads.pinterest.com^$all
+||ads.youtube.com^$all
+||advice-ads.s3.amazonaws.com^$all
+||business.samsungusa.com^$all
+||doubleclick.net^$all
+||m.doubleclick.net^$all
+||mediavisor.doubleclick.net^$all
+||pagead2.googlesyndication.com^$all
+||static.doubleclick.net^$all
+||widgets.pinterest.com^$all
