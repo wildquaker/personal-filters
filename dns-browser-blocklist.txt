@@ -1,4 +1,3 @@
-[Adblock Plus]
 ! Title: wildquaker's DNS/Browser Blocklist
 ! Description: My personal DNS/browser blocklist
 ! Homepage: https://github.com/wildquaker/personal-filters
