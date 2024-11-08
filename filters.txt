@@ -78,12 +78,12 @@ youtube.com##+js(set, ytInitialData.desktopTopbar.desktopTopbarRenderer.intersti
 youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
 youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
 youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
-youtube.com##ytd-rich-item-renderer:has(#video-title-link[title*="Mix"][href$="start_radio=1"])
+youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.upsellDialogRenderer)
+youtube.com##ytd-rich-item-renderer:has([href$="start_radio=1"])
 youtube.com##ytd-compact-radio-renderer
 youtube.com##ytd-radio-renderer
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:has(ytd-rich-item-renderer[is-post])
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-item-renderer[is-post]
-youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-renderer,ytd-channel-renderer, ytd-playlist-renderer,yt-showing-results-for-renderer,[icon-name="promo-full-height:EMPTY_SEARCH"]),ytd-video-renderer:has([aria-label="Shorts"])),ytd-secondary-search-container-renderer
 www.youtube.com##ytd-browse[page-subtype="home"] :is(ytd-rich-grid-row, #contents.ytd-rich-grid-row):style(display: contents !important)
 /annotations_module.js$script,xhr,important,domain=youtube.com
 youtube.com##.ytp-ce-element.ytp-ce-video
@@ -94,5 +94,4 @@ youtube.com##.ytp-cards-teaser
 youtube.com##.ytp-button.ytp-cards-button
 youtube.com##.ytp-button.branding-img-container
 youtube.com##.ytp-suggested-action
-youtube.com##.ytp-quality-menu .ytp-premium-label:upward(.ytp-menuitem)
 youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
