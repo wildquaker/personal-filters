@@ -51,16 +51,19 @@ twitter.com,x.com##article [aria-label^="Follow Topic"], article [aria-label^="R
 twitter.com,x.com##article [d$="2.66 6 1H5z"]:upward(article)
 twitter.com,x.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"]))
 twitter.com,x.com##[aria-label$="’s posts"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
+twitter.com,x.com##article div>svg>g>[d^="M17.863 13.44c1.477"]:upward(article)
+twitter.com,x.com##article>div:first-child>div:first-child>div:first-child>div:first-child [d$="4.17-.514 6.67z"]:upward(article)
 twitter.com,x.com##[aria-label="Timeline: Conversation"] :is([data-testid="cellInnerDiv"]:has(h2:not(:only-child)), [data-testid="cellInnerDiv"]:has(h2:not(:only-child))~div)
 twitter.com,x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] article [role="button"]:not([aria-label]):upward([data-testid="cellInnerDiv"])
-twitter.com,x.com##[aria-label="Get Verified"]
-twitter.com,x.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1)
+twitter.com,x.com##[aria-label="Get Verified"]    
 twitter.com,x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com,x.com##[aria-label$="trending now" i]
 twitter.com,x.com##[aria-label="who to follow" i]:upward(1)
+twitter.com,x.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
+twitter.com,x.com##html:style(overflow: auto !important;)
 twitter.com,x.com###layers>div:last-of-type:has-text(Switch to the app)
-twitter.com,x.com##aside[aria-label="Subscribe to Premium"]
 twitter.com,x.com##a[href="/i/grok"]
+twitter.com,x.com##a[href="/i/jobs"]
 twitter.com,x.com##a[href="/i/premium_sign_up"]
 twitter.com,x.com##a[href="/i/verified-orgs-signup"]
 
