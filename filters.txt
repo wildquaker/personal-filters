@@ -54,7 +54,6 @@ twitter.com,x.com##[aria-label$="’s posts"] div[style^="transform: translateY"
 twitter.com,x.com##article div>svg>g>[d^="M17.863 13.44c1.477"]:upward(article)
 twitter.com,x.com##article>div:first-child>div:first-child>div:first-child>div:first-child [d$="4.17-.514 6.67z"]:upward(article)
 twitter.com,x.com##[aria-label="Timeline: Conversation"] :is([data-testid="cellInnerDiv"]:has(h2:not(:only-child)), [data-testid="cellInnerDiv"]:has(h2:not(:only-child))~div)
-twitter.com,x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] article [role="button"]:not([aria-label]):upward([data-testid="cellInnerDiv"])
 twitter.com,x.com##[aria-label="Get Verified"]    
 twitter.com,x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com,x.com##[aria-label$="trending now" i]
