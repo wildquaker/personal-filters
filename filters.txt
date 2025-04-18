@@ -47,19 +47,7 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 ||strapi.reddit.com^$xhr,domain=reddit.com
 
 ! Twitter
-twitter.com,x.com##:is([aria-label="Timeline: Your Home Timeline"],[aria-label^="Timeline:"][aria-label$="posts"]) div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"],>div>button))
-twitter.com,x.com##[aria-label^="Timeline:"] [data-testid="cellInnerDiv"]:has([d^="M4.75 3.79l4.603"]):not(:has([data-testid="unretweet"])):style(border: yellow dotted 5px !important)
-twitter.com,x.com##[src$="/verified_stroke_1.png"]:upward(div:not(:empty)+div:last-of-type):style(border: dotted 2px grey !important;)
-twitter.com,x.com##[data-testid="retweet"] [data-testid="app-text-transition-container"], [data-testid="like"] [data-testid="app-text-transition-container"]
-twitter.com,x.com##[aria-label="Timeline: Conversation"] :is([data-testid="cellInnerDiv"]:has(h2:not(:only-child)), [data-testid="cellInnerDiv"]:has(h2:not(:only-child))~div)
-twitter.com,x.com##[aria-label="Get Verified"]    
-twitter.com,x.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
-twitter.com,x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
-twitter.com,x.com##[aria-label$="trending now" i]
-twitter.com,x.com##[aria-label="who to follow" i]:upward(1)
-twitter.com,x.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
-twitter.com,x.com##html:style(overflow: auto !important;)
-twitter.com,x.com###layers>div:last-of-type:has-text(Switch to the app)
+
 
 ! YouTube
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
