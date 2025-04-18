@@ -59,6 +59,10 @@ twitter.com,x.com##[aria-label="who to follow" i]:upward(1)
 twitter.com,x.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
 twitter.com,x.com##html:style(overflow: auto !important;)
 twitter.com,x.com###layers>div:last-of-type:has-text(Switch to the app)
+twitter.com,x.com##[href="/i/grok"]
+twitter.com,x.com##[href="/jobs"]
+twitter.com,x.com##[href$="/communities"]
+twitter.com,x.com##[href="/i/verified-orgs-signup"]
 
 ! YouTube
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
