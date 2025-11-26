@@ -81,7 +81,6 @@ youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, fals
 youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
 youtube.com##ytd-rich-item-renderer:has([href*="start_radio=1"])
 youtube.com##ytd-compact-radio-renderer, :is(#related yt-lockup-view-model,ytd-compact-video-renderer):has([href*="&start_radio=1"])
-youtube.com##ytd-radio-renderer, :is(ytd-search yt-lockup-view-model,ytd-video-renderer[is-search]):has([href*="&start_radio=1"][aria-label])
 youtube.com##.ytp-videowall-still[data-is-mix="true"]
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:has(ytd-rich-item-renderer[is-post])
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-item-renderer[is-post]
